@@ -4,7 +4,7 @@ Mail Swipe is a python script that helps you to create temporary email addresses
 
 You can either generate your own email address or you can generate a random email address using this script. Once you receive an email it will be save in a text file inside the **"All Mails"** folder.
 
-***Attention: For security reason you cannot read messages from addresses: abuse@domain, webmaster@domain, contact@domain, postmaster@domain, hostmaster@domain, admin@domain. All other addresses are free to use.*** - 1secmail team -
+***For security reason you cannot read messages from addresses: abuse@domain, webmaster@domain, contact@domain, postmaster@domain, hostmaster@domain, admin@domain. All other addresses are free to use.*** - 1secmail team -
 
 ![mailswipe](https://user-images.githubusercontent.com/55880211/94339230-e61e7100-0015-11eb-942a-cd1085179ff4.gif)
 
