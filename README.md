@@ -1,3 +1,7 @@
+> ⚠️ **Archived Repository**  
+> This repository has been archived and is no longer maintained.  
+> Feel free to browse the code, but note that no further updates or support will be provided.
+
 # Mail-Swipe | Keep your real mailbox clean and secure. 
 
 Mail Swipe is a python script that helps you to create temporary email addresses and receive emails at that address. It uses the API provided by [1secmail](https://www.1secmail.com/api/) to create emails addresses and fetch emails.
